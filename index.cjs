@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const net = require('node:net');
 const iconv = require('iconv-lite');
 
